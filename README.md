@@ -14,12 +14,22 @@
 <div align="center">
   <div style="display: inline_block"><br>
     <h1 align="center">Tecnologias Utilizadas</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="30" width="40" alt="vscode-icon" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+    <img align="center" height="30" width="40" alt="css-icon"  src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+    <img align="center" height="30" width="40" alt="javascript-icon" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
    </div>
+</div>
+<br>
+
+<div align="center">
+  <div style="display: inline_block">
+    <img align="center" height="30" width="40" alt="firebase-icon" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
+    <img align="center" height="30" width="40" alt="sql-icon" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
+    <img align="center" height="30" width="40" alt="blender-icon" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg">
+  </div>
 </div>
 <br><br>
 
@@ -27,9 +37,9 @@
 <br><hr>
 
 <div align="center">
-  <a href="https://instagram.com/elziorocha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href="mailto:rochasenzo.04@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/elziorocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+  <a href="https://instagram.com/elziorocha" target="_blank"><img width="150" height="40" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="mailto:rochasenzo.04@gmail.com"> <img width="120" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/elziorocha/" target="_blank"><img width="150" height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A842FF&height=120&section=footer"/>
