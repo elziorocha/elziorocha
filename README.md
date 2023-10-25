@@ -17,6 +17,7 @@
     <img align="center" height="30" width="40" alt="vscode-icon" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img align="center" height="30" width="40" alt="css-icon"  src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
     <img align="center" height="30" width="40" alt="javascript-icon" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
    </div>
