@@ -1,6 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A842FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A842FF&size=40&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Enzo+Rocha;Tenho+19+anos;Sou+um+Estudante+de+Engenharia+de+Software;Seja+Bem-vindo!!!+:%29)](https://git.io/typing-svg)
+
+<br><br>
+
+<div align="center">
+  <a href="https://elziorochaportfolio.netlify.app" style="text-decoration: none;">
+    <img alt="Meu Portfólio" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Meu%20Portólio-A842FF?style=for-the-badge&logoColor=white&logo=link-external" style="width: 200px; height: 45px;"/>
+  </a>
+</div>
+
 <br><br>
 
 <div>
