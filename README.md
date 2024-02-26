@@ -29,14 +29,16 @@
     <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
     <img align="center" height="30" width="40" alt="javascript-icon" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    <img align="center" height="30" width="40" alt="angular-icon" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
    </div>
 </div>
 <br>
 
 <div align="center">
   <div style="display: inline_block">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.worldvectorlogo.com/logos/nodejs-3.svg">
+    <img align="center" height="30" width="40" alt="php-icon" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
     <img align="center" height="30" width="40" alt="firebase-icon" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="sql-icon" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
     <img align="center" height="30" width="40" alt="blender-icon" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg">
   </div>
