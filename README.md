@@ -40,6 +40,7 @@
     <img align="center" height="30" width="40" alt="php-icon" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
     <img align="center" height="30" width="40" alt="firebase-icon" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
     <img align="center" height="30" width="40" alt="sql-icon" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
+    <img align="center" height="30" width="40" alt="mongodb-icon" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg">
     <img align="center" height="30" width="40" alt="blender-icon" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg">
   </div>
 </div>
