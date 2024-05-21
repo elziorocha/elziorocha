@@ -6,10 +6,17 @@
 
 <div align="center">
   <a href="https://elziorochaportfolio.netlify.app" style="text-decoration: none;">
-    <img alt="Meu Portfólio" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Meu%20Portólio-A842FF?style=for-the-badge&logoColor=white&logo=link-external" style="width: 200px; height: 45px;"/>
+    <img alt="Meu Portfólio" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Meu%20Portfólio-8634CC?style=for-the-badge&logoColor=white&logo=link-external" style="width: 200px; height: 40px;"/>
   </a>
 </div>
 
+<div align="center">
+  
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:rochasenzo.04@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/elziorocha/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/elziorocha/)
+
+</div>
 <br><br>
 
 <div>
@@ -21,38 +28,33 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elziorocha&bg_color=0d1117&color=A842FF&line=A842FF&point=DDD5F3&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
     <h1 align="center">Tecnologias Utilizadas</h1>
-    <img align="center" height="30" width="40" alt="vscode-icon" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-    <img align="center" height="30" width="40" alt="css-icon"  src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg">
-    <img align="center" height="30" width="40" alt="javascript-icon" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-    <img align="center" height="30" width="40" alt="angular-icon" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
+    <img align="center" height="35" width="40" alt="vscode-icon" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+    <img align="center" height="35" width="40" alt="html-icon" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+    <img align="center" height="35" width="40" alt="css-icon"  src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+    <img align="center" height="35" width="40" alt="tailwind-icon" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg">
+    <img align="center" height="35" width="40" alt="javascript-icon" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img align="center" height="35" width="40" alt="typescript-icon" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+    <img align="center" height="35" width="40" alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    <img align="center" height="35" width="40" alt="angular-icon" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
    </div>
 </div>
 <br>
 
 <div align="center">
   <div style="display: inline_block">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.worldvectorlogo.com/logos/nodejs-3.svg">
-    <img align="center" height="30" width="40" alt="php-icon" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
-    <img align="center" height="30" width="40" alt="firebase-icon" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
-    <img align="center" height="30" width="40" alt="sql-icon" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
-    <img align="center" height="30" width="40" alt="mongodb-icon" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg">
-    <img align="center" height="30" width="40" alt="blender-icon" src="https://cdn.worldvectorlogo.com/logos/blender-2.svg">
+    <img align="center" height="35" width="40" alt="nodejs-icon" src="https://cdn.worldvectorlogo.com/logos/nodejs-3.svg">
+    <img align="center" height="35" width="40" alt="socket.io-icon" src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg">
+    <img align="center" height="35" width="40" alt="php-icon" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
+    <img align="center" height="35" width="40" alt="firebase-icon" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
+    <img align="center" height="35" width="40" alt="database-icon" src="https://cdn.worldvectorlogo.com/logos/amazon-database.svg">
+    <img align="center" height="35" width="40" alt="mongodb-icon" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg">
   </div>
 </div>
 <br><br>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 <br><hr>
-
-<div align="center">
-  <a href="https://instagram.com/elziorocha" target="_blank"><img width="150" height="40" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href="mailto:rochasenzo.04@gmail.com"> <img width="120" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/elziorocha/" target="_blank"><img width="150" height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A842FF&height=120&section=footer"/>
