@@ -5,7 +5,7 @@
 <br><br>
 
 <div align="center">
-  <a href="https://elziorochaportfolio.netlify.app" style="text-decoration: none;">
+  <a href="https://elziorochaportfoliov2.netlify.app/" style="text-decoration: none;">
     <img alt="Meu Portfólio" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-Meu%20Portfólio-8634CC?style=for-the-badge&logoColor=white&logo=link-external" style="width: auto; height: 45px;"/>
   </a>
 </div>
@@ -46,7 +46,6 @@
     <img align="center" height="35" width="40" alt="typescript-icon" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
     <img align="center" height="35" width="40" alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
     <img align="center" height="35" width="40" alt="angular-icon" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
-    <img align="center" height="35" width="40" alt="flutter-icon" src="https://cdn.worldvectorlogo.com/logos/flutter.svg">
    </div>
 </div>
 <br>
