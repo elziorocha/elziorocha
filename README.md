@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <a href="mailto:rochasenzo.04@gmail.com">
+  <a href="mailto:contato.elziorocha@gmail.com">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" alt="E-mail"      style="height: 40px; width: auto;">
   </a>
   
@@ -31,9 +31,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=elziorocha&show_icons=true&count_private=true&title_color=DDD5F3&icon_color=A842FF&border_color=A842FF&text_color=DDD5F3&bg_color=0d1117" alt="Enzo Rocha's github stats" /> 
   <img width="41%" height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elziorocha&layout=compact&border_color=A842FF&title_color=DDD5F3&text_color=ff91a4&bg_color=0d1117" />
 </div>
-<br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elziorocha&bg_color=0d1117&color=A842FF&line=A842FF&point=DDD5F3&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <div style="display: inline_block">
@@ -72,7 +69,17 @@
     <img align="center" height="35" width="40" alt="socket.io-icon" src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg">
   </div>
 </div>
-<br><br>
+<h1></h1>
+
+<p align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/elziorocha?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=12&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&widget_size=small" alt="Ashutosh's github activity graph">
+</p>
+
+
+<h3 align="center">Visitantes do Perfil</h3>
+<p align="center">
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Felziorocha&s=50&c=800080&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
+</p>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 <br><hr>
