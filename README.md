@@ -49,11 +49,12 @@
 
 <div align="center">
   <div style="display: inline_block">
-    <img align="center" height="35" width="40" alt="git-icon" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
     <img align="center" height="35" width="40" alt="nodejs-icon" src="https://cdn.worldvectorlogo.com/logos/nodejs-3.svg">
-    <img align="center" height="35" width="40" alt="php-icon" src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
+    <img align="center" height="35" width="40" alt="php-icon" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">
     <img align="center" height="35" width="40" alt="database-icon" src="https://cdn.worldvectorlogo.com/logos/amazon-database.svg">
     <img align="center" height="35" width="40" alt="mongodb-icon" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg">
+    <img align="center" height="35" width="40" alt="prisma-icon" src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg">
+    <img align="center" height="35" width="40" alt="supabase-icon" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg">
     <img align="center" height="35" width="40" alt="firebase-icon" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
   </div>
 </div>
@@ -61,9 +62,10 @@
 
 <div align="center">
   <div style="display: inline_block">
+    <img align="center" height="35" width="40" alt="git-icon" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
     <img align="center" height="35" width="40" alt="eslint-icon" src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg">
     <img align="center" height="35" width="40" alt="vite-icon" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg">
-    <img align="center" height="35" width="40" alt="nest-icon" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
+    <img align="center" height="35" width="40" alt="next-icon" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
     <img align="center" height="35" width="40" alt="clerk-icon" src="https://images.clerk.com/static/logo-light-mode-400x400.png">
     <img align="center" height="35" width="40" alt="cypress-icon" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png">
     <img align="center" height="35" width="40" alt="socket.io-icon" src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg">
