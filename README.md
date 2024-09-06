@@ -35,14 +35,14 @@
 <div align="center">
   <div style="display: inline_block">
     <h1 align="center">Tecnologias Utilizadas</h1>
-    <img align="center" height="35" width="40" alt="vscode-icon" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
     <img align="center" height="35" width="40" alt="html-icon" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img align="center" height="35" width="40" alt="css-icon"  src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
     <img align="center" height="35" width="40" alt="tailwind-icon" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg">
     <img align="center" height="35" width="40" alt="javascript-icon" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img align="center" height="35" width="40" alt="typescript-icon" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
     <img align="center" height="35" width="40" alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-    <img align="center" height="35" width="40" alt="angular-icon" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
+    <img align="center" height="35" width="40" alt="next-icon" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
+    <img align="center" height="35" width="40" alt="vue-icon" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg">
    </div>
 </div>
 <br>
@@ -51,7 +51,17 @@
   <div style="display: inline_block">
     <img align="center" height="35" width="40" alt="nodejs-icon" src="https://cdn.worldvectorlogo.com/logos/nodejs-3.svg">
     <img align="center" height="35" width="40" alt="php-icon" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">
+    <img align="center" height="35" width="40" alt="laravel-icon" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
+    <img align="center" height="35" width="40" alt="python-icon" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
+    <img align="center" height="35" width="40" alt="flutter-icon" src="https://cdn.worldvectorlogo.com/logos/flutter.svg">
+  </div>
+</div>
+<br>
+
+<div align="center">
+  <div style="display: inline_block">
     <img align="center" height="35" width="40" alt="database-icon" src="https://cdn.worldvectorlogo.com/logos/amazon-database.svg">
+    <img align="center" height="35" width="40" alt="sql-icon" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
     <img align="center" height="35" width="40" alt="mongodb-icon" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg">
     <img align="center" height="35" width="40" alt="prisma-icon" src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg">
     <img align="center" height="35" width="40" alt="supabase-icon" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg">
@@ -63,12 +73,10 @@
 <div align="center">
   <div style="display: inline_block">
     <img align="center" height="35" width="40" alt="git-icon" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
-    <img align="center" height="35" width="40" alt="eslint-icon" src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg">
     <img align="center" height="35" width="40" alt="vite-icon" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg">
-    <img align="center" height="35" width="40" alt="next-icon" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
     <img align="center" height="35" width="40" alt="clerk-icon" src="https://images.clerk.com/static/logo-light-mode-400x400.png">
-    <img align="center" height="35" width="40" alt="cypress-icon" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png">
     <img align="center" height="35" width="40" alt="socket.io-icon" src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg">
+    <img align="center" height="35" width="40" alt="cypress-icon" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png">
   </div>
 </div>
 <h1></h1>
