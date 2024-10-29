@@ -65,7 +65,6 @@
     <img align="center" height="35" width="40" alt="mongodb-icon" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg">
     <img align="center" height="35" width="40" alt="prisma-icon" src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg">
     <img align="center" height="35" width="40" alt="supabase-icon" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg">
-    <img align="center" height="35" width="40" alt="firebase-icon" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
   </div>
 </div>
 <br>
@@ -73,6 +72,7 @@
 <div align="center">
   <div style="display: inline_block">
     <img align="center" height="35" width="40" alt="git-icon" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
+    <img align="center" height="35" width="40" alt="docler-icon" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg">
     <img align="center" height="35" width="40" alt="vite-icon" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg">
     <img align="center" height="35" width="40" alt="clerk-icon" src="https://images.clerk.com/static/logo-light-mode-400x400.png">
     <img align="center" height="35" width="40" alt="socket.io-icon" src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg">
