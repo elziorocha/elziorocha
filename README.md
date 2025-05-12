@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A842FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A842FF&size=40&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Enzo+Rocha;Tenho+19+anos;Sou+um+Estudante+de+Engenharia+de+Software;Seja+Bem-vindo!!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A842FF&size=40&center=true&vCenter=true&width=1000&lines=Olá!,+Meu+nome+é+Enzo+Rocha;Tenho+20+anos;Sou+um+Engenheiro+de+Software;Seja+Bem-vindo!!!+:%29)](https://git.io/typing-svg)
 
 <br><br>
 
@@ -62,6 +62,7 @@
   <div style="display: inline_block">
     <img align="center" height="35" width="40" alt="database-icon" src="https://cdn.worldvectorlogo.com/logos/amazon-database.svg">
     <img align="center" height="35" width="40" alt="sql-icon" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
+    <img align="center" height="35" width="40" alt="typeorm-icon" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4">
     <img align="center" height="35" width="40" alt="mongodb-icon" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg">
     <img align="center" height="35" width="40" alt="prisma-icon" src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg">
     <img align="center" height="35" width="40" alt="supabase-icon" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg">
